@@ -11,7 +11,7 @@
 
 ## Objectives
 
-### Update provided code according to the "TO DO" statments.Console.log() statements will return information from the "car" object.  
+### Update provided code according to the "TO DO" statments. Console.log() statements will return information from the "car" object.  
 
 ```
 // TODO Part 11: Import reverseString() and concatenateString()
